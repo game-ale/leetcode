@@ -30,15 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/game-ale/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/game-ale/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/game-ale/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/game-ale/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/game-ale/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Sliding Window
 |  |
