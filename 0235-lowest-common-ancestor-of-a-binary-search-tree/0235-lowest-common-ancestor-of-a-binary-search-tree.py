@@ -14,7 +14,6 @@ class Solution:
             right = dfs(node.right,p,q)
             if left and right:
                 return node
-            else:
-                return left if left else right
+            return left if left else right
         return(dfs(root,p,q))
         
