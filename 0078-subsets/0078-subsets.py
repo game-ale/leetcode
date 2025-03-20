@@ -8,8 +8,7 @@ class Solution:
             helper(num,ind+1)
             num.append(nums[ind])
             helper(num,ind+1)
-            if num:
-                num.pop()
+            num.pop()
         helper([],0)
         return result
 
