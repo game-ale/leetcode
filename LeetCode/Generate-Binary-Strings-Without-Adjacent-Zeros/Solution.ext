@@ -1,0 +1,16 @@
+class Solution:
+    def validStrings(self, n: int) -> List[str]:
+        def helper(n,ans):
+            if len(ans)==n:
+                result.append(ans)
+                return
+            if (not ans or ans[-1]!="0")  :
+                helper(n,ans+"0")
+            helper(n,ans+"1")
+            return result
+        result = []
+        helper(n,"")
+        return result
+        
+
+        
