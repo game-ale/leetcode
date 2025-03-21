@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/game-ale/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/game-ale/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/game-ale/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
