@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/game-ale/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1675-magnetic-force-between-two-balls](https://github.com/game-ale/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/game-ale/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/game-ale/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/game-ale/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1675-magnetic-force-between-two-balls](https://github.com/game-ale/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2665-minimum-time-to-repair-cars](https://github.com/game-ale/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/game-ale/leetcode/tree/master/2690-house-robber-iv) |
 ## Hash Table
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/game-ale/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/game-ale/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/game-ale/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->
