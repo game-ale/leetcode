@@ -1,0 +1,3 @@
+Input: mat = [[0,1],[1,0]]
+Output: [0,1]
+Explanation: Both rows have the same number of 1's. So we return the index of the smaller row, 0, and the maximum count of ones (1). So, the answer is [0,1]. 
