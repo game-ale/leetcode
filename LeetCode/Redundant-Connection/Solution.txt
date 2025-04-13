@@ -1,0 +1,10 @@
+            rootX = find(x)
+            rootY = find(y)
+            if rootX == rootY:
+                return False 
+            parent[rootX] = rootY
+            return True
+
+        for u, v in edges:
+            if not union(u, v):
+                return [u, v]
