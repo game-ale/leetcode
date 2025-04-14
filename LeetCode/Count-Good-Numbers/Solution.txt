@@ -1,3 +1,10 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
-        
+        mod = 10**9 + 7
+        def ans (num, n):
+            res = 1
+            while n:
+                if (n&1)==1:
+                    res = res*num%mod
+                num = num*num%mod
+                n>>=1
