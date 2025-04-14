@@ -1,0 +1,7 @@
+            return dfs_list_node(list_node.next, tree_node.left) or dfs_list_node(list_node.next, tree_node.right)
+        
+        if not head:
+            return True
+        if not root:
+            return False
+        return dfs_list_node(head, root) or self.isSubPath(head, root.left) or self.isSubPath(head, root.right)
