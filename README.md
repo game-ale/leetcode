@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/game-ale/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/game-ale/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/game-ale/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/game-ale/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3548-find-the-count-of-good-integers](https://github.com/game-ale/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Stack
 |  |
 | ------- |
