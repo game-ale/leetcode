@@ -1,0 +1,1 @@
+The xor-beauty of the given array is 34.
