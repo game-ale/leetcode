@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/game-ale/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/game-ale/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/game-ale/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
 | [1675-magnetic-force-between-two-balls](https://github.com/game-ale/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2215-finding-3-digit-even-numbers](https://github.com/game-ale/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
