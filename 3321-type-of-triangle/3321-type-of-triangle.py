@@ -1,13 +1,16 @@
 class Solution:
     def triangleType(self, nums: List[int]) -> str:
         nums.sort()
-        a, b ,c = nums
-        if a == c:
-            return "equilateral"
-        elif c >= a+b:
+        if nums[0]+nums[1]<=nums[2]:
             return "none"
-        elif a==b or b ==c:
-            return "isosceles"
-        else:
-            return "scalene"
+
+        for i in range(len(nums)):
+            if nums[0]==nums[1]== nums[2]:
+                return "equilateral"
+
+            elif nums[0]!=nums[1] and nums[1]!=nums[2] and nums[0]!=nums[2]:
+                return "scalene"
+
+            else:
+                return "isosceles"
         
