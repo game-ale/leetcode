@@ -22,4 +22,3 @@ class Solution:
                     matrix[row][col] = 0
 
         return matrix
-
