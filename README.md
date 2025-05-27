@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1500-count-largest-group](https://github.com/game-ale/leetcode/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/game-ale/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/game-ale/leetcode/tree/master/0547-number-of-provinces) |
 | [1325-path-with-maximum-probability](https://github.com/game-ale/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/game-ale/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/game-ale/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -184,11 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/game-ale/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/game-ale/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/game-ale/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/game-ale/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -279,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/game-ale/leetcode/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
