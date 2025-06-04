@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/game-ale/leetcode/tree/master/0135-candy) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/game-ale/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1293-three-consecutive-odds](https://github.com/game-ale/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/game-ale/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/game-ale/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/game-ale/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/game-ale/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
