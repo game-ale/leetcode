@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/game-ale/leetcode/tree/master/0002-add-two-numbers) |
+| [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
 | [1070-convert-to-base-2](https://github.com/game-ale/leetcode/tree/master/1070-convert-to-base-2) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/game-ale/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/game-ale/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/game-ale/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/game-ale/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Geometry
+|  |
+| ------- |
+| [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
 <!---LeetCode Topics End-->
