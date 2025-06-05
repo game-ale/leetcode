@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/game-ale/leetcode/tree/master/0372-super-pow) |
 | [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/game-ale/leetcode/tree/master/0002-add-two-numbers) |
+| [0372-super-pow](https://github.com/game-ale/leetcode/tree/master/0372-super-pow) |
 | [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
 | [1070-convert-to-base-2](https://github.com/game-ale/leetcode/tree/master/1070-convert-to-base-2) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/game-ale/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
