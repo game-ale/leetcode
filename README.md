@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/game-ale/leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/game-ale/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/game-ale/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/game-ale/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/game-ale/leetcode/tree/master/0372-super-pow) |
 | [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
 | [1070-convert-to-base-2](https://github.com/game-ale/leetcode/tree/master/1070-convert-to-base-2) |
+| [1236-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/game-ale/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/game-ale/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/game-ale/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Geometry
 |  |
