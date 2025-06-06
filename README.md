@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/game-ale/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/game-ale/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/game-ale/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/game-ale/leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/game-ale/leetcode/tree/master/1543-simplified-fractions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/game-ale/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/game-ale/leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/game-ale/leetcode/tree/master/0135-candy) |
 | [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/game-ale/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/game-ale/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/game-ale/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/game-ale/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
