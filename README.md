@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/game-ale/leetcode/tree/master/0327-count-of-range-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/game-ale/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/game-ale/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/game-ale/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/game-ale/leetcode/tree/master/0494-target-sum) |
 | [0948-sort-an-array](https://github.com/game-ale/leetcode/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/game-ale/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/game-ale/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/game-ale/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/game-ale/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/game-ale/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/game-ale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/game-ale/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/game-ale/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-sort-an-array](https://github.com/game-ale/leetcode/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1675-magnetic-force-between-two-balls](https://github.com/game-ale/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
