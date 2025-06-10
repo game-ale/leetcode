@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/game-ale/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/game-ale/leetcode/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/game-ale/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/game-ale/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1293-three-consecutive-odds](https://github.com/game-ale/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/game-ale/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1500-count-largest-group](https://github.com/game-ale/leetcode/tree/master/1500-count-largest-group) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/game-ale/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/game-ale/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/game-ale/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/game-ale/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/game-ale/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
