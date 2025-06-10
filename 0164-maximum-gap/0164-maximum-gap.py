@@ -1,29 +1,36 @@
 class Solution:
     def maximumGap(self, nums: List[int]) -> int:
-        max_num = max(nums) 
-        n = len(nums)
-        exp = 1
-        def radixsort():
-            cnt = [0]*10
-            result = [0]*n
-            for i in range(n):
-                ind = (nums[i]//exp)%10
-                cnt[ind]+=1
-            for i in range(1,10):
-                cnt[i]+= cnt[i-1]     
-            for i in range(n-1,-1, -1):
-                ind =cnt[(nums[i]//exp)%10] 
-                result[ind-1] = nums[i]
-                cnt[(nums[i]//exp)%10]-=1
-            for i in range (n):
-                nums[i] = result[i]       
-        while max_num//exp > 0:
-            radixsort()
-            exp*=10
+        range_ = max(nums) - min(nums)
+        if len(nums)<2:
+            return 0
+
+        x= min(nums)
         ans = 0
-        for i in range(1,n):
-            ans = max(ans,nums[i]- nums[i-1])
+        bsize = range_ //(len(nums)-1) or 1
+        num_buck = range_//bsize + 1
+        hash_ = [[] for i in range (num_buck)]
+        for num in  nums:
+            hash_[(num-x)//bsize].append(num)
+        for i in range(num_buck):
+            hash_[i].sort()
+        k  = 0
+        for i in range(num_buck):
+            for j in range(len(hash_[i])):
+                nums[k] = hash_[i][j]
+                k+=1
+        
+        for i in range(1,len(nums)):
+            ans = max(ans,nums[i]-nums[i-1])
         return ans
+        
+
+
+
+                
+    
+            
+
+    
 
 
         
