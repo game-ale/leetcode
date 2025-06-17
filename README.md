@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/game-ale/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/game-ale/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/game-ale/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/game-ale/leetcode/tree/master/0135-candy) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/game-ale/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/game-ale/leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/game-ale/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/game-ale/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/game-ale/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/game-ale/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/game-ale/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
