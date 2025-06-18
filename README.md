@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/game-ale/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1250-longest-common-subsequence](https://github.com/game-ale/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1543-simplified-fractions](https://github.com/game-ale/leetcode/tree/master/1543-simplified-fractions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/game-ale/leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/game-ale/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/game-ale/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/game-ale/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/game-ale/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
