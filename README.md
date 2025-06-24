@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/game-ale/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/game-ale/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/game-ale/leetcode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/game-ale/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/game-ale/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/game-ale/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/game-ale/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2681-put-marbles-in-bags](https://github.com/game-ale/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/game-ale/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/game-ale/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/game-ale/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/game-ale/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/game-ale/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/game-ale/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/game-ale/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/game-ale/leetcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/game-ale/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/game-ale/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/game-ale/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
 |  |
