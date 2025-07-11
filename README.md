@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/game-ale/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/game-ale/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/game-ale/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/game-ale/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/game-ale/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/game-ale/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/game-ale/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/game-ale/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/game-ale/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/game-ale/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -597,8 +599,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/game-ale/leetcode/tree/master/0327-count-of-range-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/game-ale/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Design
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/game-ale/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/game-ale/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
