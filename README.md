@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/game-ale/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/game-ale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/game-ale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/game-ale/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/game-ale/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3639-zero-array-transformation-i](https://github.com/game-ale/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/game-ale/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/game-ale/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/game-ale/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/game-ale/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/game-ale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
