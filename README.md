@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1293-three-consecutive-odds](https://github.com/game-ale/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/game-ale/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/game-ale/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1372-check-if-it-is-a-good-array](https://github.com/game-ale/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/game-ale/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/game-ale/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/game-ale/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/game-ale/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/game-ale/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/game-ale/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/game-ale/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/game-ale/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/game-ale/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/game-ale/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1543-simplified-fractions](https://github.com/game-ale/leetcode/tree/master/1543-simplified-fractions) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/game-ale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/game-ale/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/game-ale/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/game-ale/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/game-ale/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/game-ale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Quickselect
 |  |
