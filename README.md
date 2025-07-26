@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/game-ale/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/game-ale/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/game-ale/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/game-ale/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/game-ale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/game-ale/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/game-ale/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/game-ale/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/game-ale/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/game-ale/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/game-ale/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/game-ale/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/game-ale/leetcode/tree/master/0327-count-of-range-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/game-ale/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/game-ale/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
 |  |
 | ------- |
