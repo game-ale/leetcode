@@ -1,8 +1,7 @@
 class Solution:
     def constructTransformedArray(self, nums: List[int]) -> List[int]:
-        result = []
+        ans = []
         n = len(nums)
         for i, x in enumerate(nums):
-            result.append(nums[(i+n+x)%n] if x else 0 )
-        return result
-    
+            ans.append(nums[(i+n+x)%n] if x else 0 )
+        return ans
