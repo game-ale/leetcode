@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/game-ale/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/game-ale/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/game-ale/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/game-ale/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/game-ale/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/game-ale/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/game-ale/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/game-ale/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/game-ale/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/game-ale/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/game-ale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-minimum-average-difference](https://github.com/game-ale/leetcode/tree/master/2342-minimum-average-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/game-ale/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/game-ale/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2529-range-product-queries-of-powers](https://github.com/game-ale/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/game-ale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/game-ale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/game-ale/leetcode/tree/master/3639-zero-array-transformation-i) |
