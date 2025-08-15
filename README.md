@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/game-ale/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
 | [0800-letter-case-permutation](https://github.com/game-ale/leetcode/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/game-ale/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/game-ale/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/game-ale/leetcode/tree/master/0372-super-pow) |
 | [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/game-ale/leetcode/tree/master/0900-reordered-power-of-2) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/game-ale/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/game-ale/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/game-ale/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/game-ale/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
