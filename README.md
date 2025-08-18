@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/game-ale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/game-ale/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/game-ale/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0679-24-game](https://github.com/game-ale/leetcode/tree/master/0679-24-game) |
 | [0753-open-the-lock](https://github.com/game-ale/leetcode/tree/master/0753-open-the-lock) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/game-ale/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/game-ale/leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/game-ale/leetcode/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/game-ale/leetcode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/game-ale/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/game-ale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/game-ale/leetcode/tree/master/0372-super-pow) |
+| [0679-24-game](https://github.com/game-ale/leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/game-ale/leetcode/tree/master/0867-new-21-game) |
 | [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/game-ale/leetcode/tree/master/0900-reordered-power-of-2) |
