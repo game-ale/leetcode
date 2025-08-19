@@ -10,11 +10,11 @@ class Solution:
             if node:
                 heapq.heappush(min_heap,(node.val,i,node))
         dummy = ListNode(0)
-        cur = dummy
+        ans = dummy
         while min_heap:
             val, i , node = heapq.heappop(min_heap)
-            cur.next = node
-            cur = node
+            ans.next = node
+            ans = node
             if node.next:
                 heapq.heappush(min_heap,(node.next.val,i,node.next))
         return dummy.next
