@@ -6,12 +6,10 @@
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         dummay = ListNode()
-        cur = head
-        while cur:
-            next = cur.next
-            cur.next = dummay.next
-            dummay.next = cur
-            cur = next
+        ans = head
+        while ans:
+            next = ans.next
+            ans.next = dummay.next
+            dummay.next = ans
+            ans = next
         return dummay.next
-
-        
