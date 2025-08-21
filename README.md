@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/game-ale/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/game-ale/leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/game-ale/leetcode/tree/master/0679-24-game) |
 | [0800-letter-case-permutation](https://github.com/game-ale/leetcode/tree/master/0800-letter-case-permutation) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/game-ale/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/game-ale/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/game-ale/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/game-ale/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/game-ale/leetcode/tree/master/0326-power-of-three) |
