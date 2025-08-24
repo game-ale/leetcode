@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/game-ale/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/game-ale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/game-ale/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/game-ale/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/game-ale/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/game-ale/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/game-ale/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/game-ale/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/game-ale/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/game-ale/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/game-ale/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/game-ale/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/game-ale/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/game-ale/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/game-ale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/game-ale/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/game-ale/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/game-ale/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/game-ale/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/game-ale/leetcode/tree/master/0948-sort-an-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/game-ale/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Indexed Tree
 |  |
 | ------- |
