@@ -1,25 +1,16 @@
-def longestSubarray(self, nums: List[int], limit: int) -> int:
-    max_deque = deque()
-    min_deque = deque()
-    left = 0
-
-    for right in range(len(nums)):
-        # Maintain the max_deque in decreasing order
-        while max_deque and max_deque[-1] < nums[right]:
-            max_deque.pop()
-        max_deque.append(nums[right])
-
-        # Maintain the min_deque in increasing order
-        while min_deque and min_deque[-1] > nums[right]:
-            min_deque.pop()
-        min_deque.append(nums[right])
-
-        # Check if the current window exceeds the limit
-        if max_deque[0] - min_deque[0] > limit:
-            # Remove the elements that are out of the current window
-            if max_deque[0] == nums[left]:
-                max_deque.popleft()
-            if min_deque[0] == nums[left]:
-                min_deque.popleft()
-            left += 1 # increase the left as well if the interval is invalid
-    return len(nums)-left
+[24,12,71,33,5,87,10,11,3,58,2,97,97,36,32,35,15,80,24,45,38,9,22,21,33,68,22,85,35,83,92,38,59,90,42,64,61,15,4,40,50,44,54,25,34,14,33,94,66,27,78,56,3,29,3,51,19,5,93,21,58,91,65,87,55,70,29,81,89,67,58,29,68,84,4,51,87,74,42,85,81,55,8,95,39]
+87
+[10,1,2,4,7,2]
+5
+[4,2,2,2,4,4,2,2]
+0
+[1,5,6,7,8,10,6,5,6]
+4
+[1, 1000000000, 1, 1000000000]
+1000000000
+[2, 2, 2, 3, 3, 3]
+0
+[1, 1000000000, 1, 1000000000, 1, 1000000000]
+999999999
+[3, 8, 6, 4, 7, 2]
+3
