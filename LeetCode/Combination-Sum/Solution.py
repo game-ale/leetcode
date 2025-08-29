@@ -1,26 +1,18 @@
-class Solution {
-public:
-void com (int ind,int target,vector<int>&candidates,vector<vector<int>>&ans,vector<int>&ds)
-        {if (ind == candidates.size() || target < 0) {
-            if (target == 0) {
-                ans.push_back(ds);
-            }
-            return;
-        }
-
-
-        if (candidates[ind] <= target) {
-            ds.push_back(candidates[ind]);
-            com(ind, target - candidates[ind], candidates, ans, ds);
-            ds.pop_back();
-        }
-
-        com(ind + 1, target, candidates, ans, ds); }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-      
-         vector<vector<int>> ans;
-        vector<int> ds;
-        com(0, target, candidates, ans, ds);
-        return ans;
-    }
-        } ;
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        def com(ind: int, target: int, ds: List[int]):
+            if ind == len(candidates) or target < 0:
+                if target == 0:
+                    ans.append(ds.copy())
+                return
+            
+            if candidates[ind] <= target:
+                ds.append(candidates[ind])
+                com(ind, target - candidates[ind], ds)
+                ds.pop()
+            
+            com(ind + 1, target, ds)
+        
+        ans = []
+        com(0, target, [])
+        return ans
