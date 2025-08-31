@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/game-ale/leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/game-ale/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/game-ale/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/game-ale/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/game-ale/leetcode/tree/master/0055-jump-game) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/game-ale/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/game-ale/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/game-ale/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/game-ale/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/game-ale/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/game-ale/leetcode/tree/master/0542-01-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/game-ale/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
