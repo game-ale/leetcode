@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/game-ale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/game-ale/leetcode/tree/master/0948-sort-an-array) |
+| [0978-valid-mountain-array](https://github.com/game-ale/leetcode/tree/master/0978-valid-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/game-ale/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/game-ale/leetcode/tree/master/1044-find-common-characters) |
