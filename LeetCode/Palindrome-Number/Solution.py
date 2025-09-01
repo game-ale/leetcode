@@ -1,10 +1,9 @@
 class Solution:
-    def isPalindrome(self, x: int) -> bool:
-        if x<0:
+    def isPalindrome(self, val: int) -> bool:
+        if val<0:
             return False
         else:
-            t = str(x)
-            if int(t[::-1])==x:
+            t = str(val)
+            if int(t[::-1])==val:
                 return True
         return False
-        
