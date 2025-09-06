@@ -1,0 +1,11 @@
+class Solution:
+    def getLucky(self, s: str, k: int) -> int:
+        s = ''.join (str(ord(c)-ord('a')+1) for c in s)
+        while k:
+            test = sum(int(c) for c in s)
+            s = str(test)
+            k-=1
+        return int(s)
+            
+    
+        
