@@ -1,0 +1,16 @@
+"hvmhoasabaymnmsd"
+1
+"dbvmfhnttvr"
+2
+"ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
+1
+"sssssswwsssssrrrrrrrrrttttttttttttttttttttttttttttttttttttttttttttttrrrrrrrrrrrrrrrrrrssssssssssssss"
+10
+"abcdefghijklmnopqrstuvwxyz"
+5
+"aucnewitainwctuancgacguagrycbfhsdbffhbfnvfhsrtsyfhyshfytufhsutgfghshejfhsjeghfjsehg"
+2
+"asdfghlqwertyuiopzxcvbnmazqsxwdcefvrgbthnmyujkukl"
+2
+"ijsbiushfjhsbfhaxvgrgvrjbxhrgghgujdjdkjaaqiuiwueubcbcnzkozizoiwowekdkdjkddjdji"
+2
