@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/game-ale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/game-ale/leetcode/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/game-ale/leetcode/tree/master/0978-valid-mountain-array) |
+| [1006-vowel-spellchecker](https://github.com/game-ale/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/game-ale/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/game-ale/leetcode/tree/master/1044-find-common-characters) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/game-ale/leetcode/tree/master/0753-open-the-lock) |
 | [0900-reordered-power-of-2](https://github.com/game-ale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/game-ale/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/game-ale/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/game-ale/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/game-ale/leetcode/tree/master/1044-find-common-characters) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/game-ale/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/game-ale/leetcode/tree/master/0753-open-the-lock) |
 | [0800-letter-case-permutation](https://github.com/game-ale/leetcode/tree/master/0800-letter-case-permutation) |
+| [1006-vowel-spellchecker](https://github.com/game-ale/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/game-ale/leetcode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/game-ale/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/game-ale/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
