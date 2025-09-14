@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/game-ale/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/game-ale/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/game-ale/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/game-ale/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/game-ale/leetcode/tree/master/0135-candy) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/game-ale/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/game-ale/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/game-ale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/game-ale/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/game-ale/leetcode/tree/master/0088-merge-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/game-ale/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/game-ale/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/game-ale/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
