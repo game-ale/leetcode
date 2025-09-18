@@ -1,0 +1,1 @@
+return reduce(xor, nums, k).bit_count()
