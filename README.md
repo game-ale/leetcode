@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/game-ale/leetcode/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/game-ale/leetcode/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/game-ale/leetcode/tree/master/0753-open-the-lock) |
+| [0898-transpose-matrix](https://github.com/game-ale/leetcode/tree/master/0898-transpose-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/game-ale/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/game-ale/leetcode/tree/master/0948-sort-an-array) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/game-ale/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/game-ale/leetcode/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/game-ale/leetcode/tree/master/0898-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/game-ale/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/game-ale/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/game-ale/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/game-ale/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/game-ale/leetcode/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/game-ale/leetcode/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/game-ale/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/game-ale/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/game-ale/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
