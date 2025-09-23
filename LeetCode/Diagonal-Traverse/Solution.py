@@ -1,7 +1,7 @@
 class Solution:
     def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
         row, col = len(mat),len(mat[0])
-        answer = []
+        res = []
         for k in range (row+col-1):
             temp = []
             i = 0 if k<col else k - col +1
@@ -12,5 +12,5 @@ class Solution:
                 j-=1
             if k%2==0:
                 temp = temp[::-1]
-            answer.extend(temp)
-        return answer
+            res.extend(temp)
+        return res
