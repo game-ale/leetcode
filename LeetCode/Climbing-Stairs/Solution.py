@@ -1,7 +1,10 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        dp = [1, 1]
-        for i in range(2, n + 1):
-            dp[0] = dp[0] + dp[1]
-            dp[0], dp[1] = dp[1], dp[0]
-        return max(dp)
+        x = 1 
+        y = 1
+        for i in range(1,n):
+            t = y 
+            y = y+x
+            x = t
+        return y
+        
