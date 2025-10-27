@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/game-ale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/game-ale/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/game-ale/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/game-ale/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/game-ale/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/game-ale/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/game-ale/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/game-ale/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/game-ale/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/game-ale/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/game-ale/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/game-ale/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/game-ale/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/game-ale/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/game-ale/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/game-ale/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/game-ale/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/game-ale/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/game-ale/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/game-ale/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/game-ale/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/game-ale/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
