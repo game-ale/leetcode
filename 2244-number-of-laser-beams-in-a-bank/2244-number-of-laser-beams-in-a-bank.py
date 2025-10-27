@@ -1,12 +1,12 @@
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:
-        temp = []
+        ans = 0
+        temp1 , temp2 = 0,0 
         for row in bank:
             if row.count('1'):
-                temp.append(row.count("1"))
-        ans = 0
-        for i in range(1,len(temp)):
-            ans+=(int(temp[i])* int(temp[i-1]))
+                temp1 = temp2
+                temp2 = row.count('1')
+                ans+=(temp1*temp2)
         return ans
 
 
