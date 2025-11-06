@@ -1,16 +1,31 @@
-class Solution:
-    def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
-        row, col = len(mat),len(mat[0])
-        res = []
-        for k in range (row+col-1):
-            temp = []
-            i = 0 if k<col else k - col +1
-            j = k if k<col else col - 1
-            while i<row and j>=0:
-                temp.append(mat[i][j])
-                i+=1
-                j-=1
-            if k%2==0:
-                temp = temp[::-1]
-            res.extend(temp)
-        return res
+var findDiagonalOrder = function (matrix) {
+  if (matrix.length ===0) return [];
+  
+  let arrayMap = new Map();
+  let result = [];
+  
+  // Storing all the diagonal value in the Map with i+j as a key
+  for (let i = 0; i < matrix.length; i++) {
+    for (let j = 0; j < matrix[0].length; j++) {
+      if (!arrayMap.has(i + j)) {
+        arrayMap.set(i + j, [matrix[i][j]]);
+      } else {
+        arrayMap.set(i + j, [...arrayMap.get(i + j), matrix[i][j]]);
+      }
+    }
+  }
+
+
+  let isDown = false;
+
+  arrayMap.forEach((x) => {
+    if (isDown) {
+      result.push(...x);
+    } else {
+      result.push(...x.reverse());
+    }
+    isDown = !isDown;
+  });
+
+  return result;
+};
