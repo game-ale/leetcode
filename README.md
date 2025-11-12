@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/game-ale/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/game-ale/leetcode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/game-ale/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/game-ale/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/game-ale/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/game-ale/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/game-ale/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/game-ale/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/game-ale/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/game-ale/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/game-ale/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/game-ale/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/game-ale/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/game-ale/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
