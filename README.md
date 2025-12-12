@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/game-ale/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/game-ale/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/game-ale/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/game-ale/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/game-ale/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/game-ale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/game-ale/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/game-ale/leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/game-ale/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/game-ale/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/game-ale/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/game-ale/leetcode/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/game-ale/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/game-ale/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/game-ale/leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/game-ale/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/game-ale/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/game-ale/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/game-ale/leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/game-ale/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/game-ale/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/game-ale/leetcode/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/game-ale/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/game-ale/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/game-ale/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/game-ale/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
