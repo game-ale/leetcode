@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/game-ale/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/game-ale/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/game-ale/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/game-ale/leetcode/tree/master/0088-merge-sorted-array) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/game-ale/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/game-ale/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/game-ale/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/game-ale/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/game-ale/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/game-ale/leetcode/tree/master/0168-excel-sheet-column-title) |
