@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/game-ale/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/game-ale/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/game-ale/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/game-ale/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/game-ale/leetcode/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/game-ale/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/game-ale/leetcode/tree/master/0800-letter-case-permutation) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/game-ale/leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/game-ale/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/game-ale/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/game-ale/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/game-ale/leetcode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/game-ale/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
