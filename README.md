@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/game-ale/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/game-ale/leetcode/tree/master/0202-happy-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/game-ale/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/game-ale/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/game-ale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/game-ale/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/game-ale/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/game-ale/leetcode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/game-ale/leetcode/tree/master/0202-happy-number) |
 | [0611-valid-triangle-number](https://github.com/game-ale/leetcode/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/game-ale/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/game-ale/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/game-ale/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/game-ale/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/game-ale/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/game-ale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
