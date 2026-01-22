@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/game-ale/leetcode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/game-ale/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/game-ale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/game-ale/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/game-ale/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/game-ale/leetcode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/game-ale/leetcode/tree/master/0327-count-of-range-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/game-ale/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/game-ale/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/game-ale/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/game-ale/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/game-ale/leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/game-ale/leetcode/tree/master/0367-valid-perfect-square) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/game-ale/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/game-ale/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/game-ale/leetcode/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/game-ale/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/game-ale/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/game-ale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/game-ale/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/game-ale/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/game-ale/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/game-ale/leetcode/tree/master/0800-letter-case-permutation) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/game-ale/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/game-ale/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/game-ale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/game-ale/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/game-ale/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/game-ale/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/game-ale/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -889,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/game-ale/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/game-ale/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/game-ale/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/game-ale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/game-ale/leetcode/tree/master/0367-valid-perfect-square) |
