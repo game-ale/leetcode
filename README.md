@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/game-ale/leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/game-ale/leetcode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/game-ale/leetcode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/game-ale/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0794-swim-in-rising-water](https://github.com/game-ale/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/game-ale/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/game-ale/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/game-ale/leetcode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/game-ale/leetcode/tree/master/0202-happy-number) |
 | [0611-valid-triangle-number](https://github.com/game-ale/leetcode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/game-ale/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/game-ale/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/game-ale/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/game-ale/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/game-ale/leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/game-ale/leetcode/tree/master/0372-super-pow) |
+| [0633-sum-of-square-numbers](https://github.com/game-ale/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0679-24-game](https://github.com/game-ale/leetcode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/game-ale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/game-ale/leetcode/tree/master/0867-new-21-game) |
