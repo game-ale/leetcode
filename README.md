@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/game-ale/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/game-ale/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/game-ale/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sorting
 |  |
 | ------- |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/game-ale/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/game-ale/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/game-ale/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/game-ale/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/game-ale/leetcode/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
@@ -1235,4 +1237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/game-ale/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/game-ale/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/game-ale/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
