@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/game-ale/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/game-ale/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0210-course-schedule-ii](https://github.com/game-ale/leetcode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/game-ale/leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/game-ale/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/game-ale/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0210-course-schedule-ii](https://github.com/game-ale/leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/game-ale/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/game-ale/leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/game-ale/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/game-ale/leetcode/tree/master/0210-course-schedule-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/game-ale/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/game-ale/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1284,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/game-ale/leetcode/tree/master/0210-course-schedule-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/game-ale/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/game-ale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/game-ale/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
