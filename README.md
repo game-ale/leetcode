@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/game-ale/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/game-ale/leetcode/tree/master/0190-reverse-bits) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/game-ale/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/game-ale/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/game-ale/leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/game-ale/leetcode/tree/master/0165-compare-version-numbers) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/game-ale/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/game-ale/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/game-ale/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/game-ale/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/game-ale/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/game-ale/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/game-ale/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/game-ale/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/game-ale/leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/game-ale/leetcode/tree/master/0898-transpose-matrix) |
