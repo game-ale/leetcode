@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/game-ale/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/game-ale/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/game-ale/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0696-count-binary-substrings](https://github.com/game-ale/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/game-ale/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/game-ale/leetcode/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/game-ale/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/game-ale/leetcode/tree/master/0202-happy-number) |
 | [0611-valid-triangle-number](https://github.com/game-ale/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/game-ale/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0696-count-binary-substrings](https://github.com/game-ale/leetcode/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/game-ale/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/game-ale/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/game-ale/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
