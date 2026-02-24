@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/game-ale/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/game-ale/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/game-ale/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/game-ale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/game-ale/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0794-swim-in-rising-water](https://github.com/game-ale/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/game-ale/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/game-ale/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/game-ale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/game-ale/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/game-ale/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/game-ale/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/game-ale/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/game-ale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
