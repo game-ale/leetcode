@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/game-ale/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/game-ale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/game-ale/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/game-ale/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/game-ale/leetcode/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/game-ale/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/game-ale/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/game-ale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/game-ale/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/game-ale/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/game-ale/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/game-ale/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/game-ale/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/game-ale/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/game-ale/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
