@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/game-ale/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/game-ale/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/game-ale/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/game-ale/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Queue
 |  |
 | ------- |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/game-ale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/game-ale/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/game-ale/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/game-ale/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/game-ale/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/game-ale/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/game-ale/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/game-ale/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/game-ale/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/game-ale/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/game-ale/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/game-ale/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1286,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/game-ale/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/game-ale/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/game-ale/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/game-ale/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/game-ale/leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/game-ale/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/game-ale/leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1342,4 +1346,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/game-ale/leetcode/tree/master/0200-number-of-islands) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/game-ale/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
