@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/game-ale/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/game-ale/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1543-simplified-fractions](https://github.com/game-ale/leetcode/tree/master/1543-simplified-fractions) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/game-ale/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/game-ale/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/game-ale/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/game-ale/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/game-ale/leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/game-ale/leetcode/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/game-ale/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/game-ale/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/game-ale/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/game-ale/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2211-count-collisions-on-a-road](https://github.com/game-ale/leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/game-ale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/game-ale/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/game-ale/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/game-ale/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
