@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/game-ale/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/game-ale/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/game-ale/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/game-ale/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/game-ale/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/game-ale/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/game-ale/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/game-ale/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/game-ale/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/game-ale/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1971-find-if-path-exists-in-graph](https://github.com/game-ale/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/game-ale/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2092-find-all-people-with-secret](https://github.com/game-ale/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1355,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/game-ale/leetcode/tree/master/0210-course-schedule-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/game-ale/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/game-ale/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/game-ale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/game-ale/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1362,5 +1365,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/game-ale/leetcode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/game-ale/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/game-ale/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
