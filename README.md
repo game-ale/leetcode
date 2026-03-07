@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/game-ale/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/game-ale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/game-ale/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/game-ale/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/game-ale/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/game-ale/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/game-ale/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/game-ale/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/game-ale/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/game-ale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/game-ale/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/game-ale/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/game-ale/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/game-ale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/game-ale/leetcode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/game-ale/leetcode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/game-ale/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/game-ale/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/game-ale/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/game-ale/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/game-ale/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
