@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/game-ale/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/game-ale/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/game-ale/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/game-ale/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1983-maximum-population-year](https://github.com/game-ale/leetcode/tree/master/1983-maximum-population-year) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/game-ale/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/game-ale/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/game-ale/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/game-ale/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/game-ale/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/game-ale/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/game-ale/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/game-ale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/game-ale/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/game-ale/leetcode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/game-ale/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1980-find-unique-binary-string](https://github.com/game-ale/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/game-ale/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/game-ale/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/game-ale/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/game-ale/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/game-ale/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/game-ale/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1980-find-unique-binary-string](https://github.com/game-ale/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/game-ale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/game-ale/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2211-count-collisions-on-a-road](https://github.com/game-ale/leetcode/tree/master/2211-count-collisions-on-a-road) |
