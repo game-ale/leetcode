@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/game-ale/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/game-ale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/game-ale/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/game-ale/leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/game-ale/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/game-ale/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/game-ale/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/game-ale/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/game-ale/leetcode/tree/master/1895-largest-magic-square) |
 | [1983-maximum-population-year](https://github.com/game-ale/leetcode/tree/master/1983-maximum-population-year) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/game-ale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/game-ale/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/game-ale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/game-ale/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/game-ale/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/game-ale/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/game-ale/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -975,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/game-ale/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/game-ale/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/game-ale/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/game-ale/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/game-ale/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/game-ale/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1012,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/game-ale/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/game-ale/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/game-ale/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/game-ale/leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/game-ale/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/game-ale/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -1076,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/game-ale/leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/game-ale/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/game-ale/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/game-ale/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/game-ale/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/game-ale/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
