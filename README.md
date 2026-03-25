@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/game-ale/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/game-ale/leetcode/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/game-ale/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/game-ale/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/game-ale/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/game-ale/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/game-ale/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/game-ale/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/game-ale/leetcode/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3546-equal-sum-grid-partition-i](https://github.com/game-ale/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/game-ale/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/game-ale/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/game-ale/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/game-ale/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/game-ale/leetcode/tree/master/2906-construct-product-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/game-ale/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/game-ale/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/game-ale/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/game-ale/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/game-ale/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1212,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/game-ale/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/game-ale/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/game-ale/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3546-equal-sum-grid-partition-i](https://github.com/game-ale/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/game-ale/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/game-ale/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/game-ale/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
