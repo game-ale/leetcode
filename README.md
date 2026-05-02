@@ -903,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/game-ale/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/game-ale/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/game-ale/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/game-ale/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/game-ale/leetcode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/game-ale/leetcode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1158,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/game-ale/leetcode/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/game-ale/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0679-24-game](https://github.com/game-ale/leetcode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/game-ale/leetcode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/game-ale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/game-ale/leetcode/tree/master/0867-new-21-game) |
 | [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
