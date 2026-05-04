@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/game-ale/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/game-ale/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/game-ale/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/game-ale/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/game-ale/leetcode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/game-ale/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/game-ale/leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/game-ale/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/game-ale/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/game-ale/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/game-ale/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/game-ale/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/game-ale/leetcode/tree/master/0066-plus-one) |
