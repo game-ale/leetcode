@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/game-ale/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/game-ale/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/game-ale/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/game-ale/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/game-ale/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/game-ale/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/game-ale/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -1276,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/game-ale/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/game-ale/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/game-ale/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/game-ale/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/game-ale/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/game-ale/leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/game-ale/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
