@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/game-ale/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/game-ale/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/game-ale/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/game-ale/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/game-ale/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/game-ale/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/game-ale/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/game-ale/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/game-ale/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/game-ale/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/game-ale/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/game-ale/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/game-ale/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/game-ale/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1175,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/game-ale/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/game-ale/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/game-ale/leetcode/tree/master/3678-design-task-manager) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/game-ale/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1557,6 +1560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/game-ale/leetcode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/game-ale/leetcode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/game-ale/leetcode/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/game-ale/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/game-ale/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/game-ale/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/game-ale/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
