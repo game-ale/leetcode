@@ -1279,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/game-ale/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/game-ale/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1372-check-if-it-is-a-good-array](https://github.com/game-ale/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/game-ale/leetcode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/game-ale/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
