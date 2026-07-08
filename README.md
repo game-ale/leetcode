@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/game-ale/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/game-ale/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/game-ale/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/game-ale/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/game-ale/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/game-ale/leetcode/tree/master/0118-pascals-triangle) |
@@ -1411,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/game-ale/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/game-ale/leetcode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/game-ale/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/game-ale/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -1430,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/game-ale/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/game-ale/leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/game-ale/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/game-ale/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
