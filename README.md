@@ -1485,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/game-ale/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/game-ale/leetcode/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/game-ale/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/game-ale/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/game-ale/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
