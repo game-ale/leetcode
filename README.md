@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/game-ale/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/game-ale/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/game-ale/leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/game-ale/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/game-ale/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/game-ale/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1283,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/game-ale/leetcode/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/game-ale/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/game-ale/leetcode/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/game-ale/leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/game-ale/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/game-ale/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/game-ale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1552,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/game-ale/leetcode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/game-ale/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/game-ale/leetcode/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/game-ale/leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/game-ale/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/game-ale/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/game-ale/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
