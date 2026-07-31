@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/game-ale/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/game-ale/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/game-ale/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/game-ale/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/game-ale/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/game-ale/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/game-ale/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/game-ale/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/game-ale/leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/game-ale/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/game-ale/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/game-ale/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/game-ale/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/game-ale/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/game-ale/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/game-ale/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/game-ale/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/game-ale/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/game-ale/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/game-ale/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/game-ale/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/game-ale/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/game-ale/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/game-ale/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/game-ale/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/game-ale/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1199,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/game-ale/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/game-ale/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/game-ale/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/game-ale/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/game-ale/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/game-ale/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/game-ale/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
