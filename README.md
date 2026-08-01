@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/game-ale/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/game-ale/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/game-ale/leetcode/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/game-ale/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/game-ale/leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/game-ale/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/game-ale/leetcode/tree/master/0542-01-matrix) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/game-ale/leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/game-ale/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/game-ale/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/game-ale/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/game-ale/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/game-ale/leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/game-ale/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1376,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/game-ale/leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/game-ale/leetcode/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/game-ale/leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/game-ale/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/game-ale/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/game-ale/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0679-24-game](https://github.com/game-ale/leetcode/tree/master/0679-24-game) |
@@ -1648,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/game-ale/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/game-ale/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/game-ale/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/game-ale/leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/game-ale/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/game-ale/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/game-ale/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1778,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/game-ale/leetcode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/game-ale/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
