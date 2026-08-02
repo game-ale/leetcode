@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/game-ale/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/game-ale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/game-ale/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/game-ale/leetcode/tree/master/0877-stone-game) |
 | [0898-transpose-matrix](https://github.com/game-ale/leetcode/tree/master/0898-transpose-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/game-ale/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/game-ale/leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/game-ale/leetcode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/game-ale/leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/game-ale/leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/game-ale/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/game-ale/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -1385,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/game-ale/leetcode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/game-ale/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/game-ale/leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/game-ale/leetcode/tree/master/0877-stone-game) |
 | [0888-mirror-reflection](https://github.com/game-ale/leetcode/tree/master/0888-mirror-reflection) |
 | [0900-reordered-power-of-2](https://github.com/game-ale/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1783,6 +1786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/game-ale/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/game-ale/leetcode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/game-ale/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
