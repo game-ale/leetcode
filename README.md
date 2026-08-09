@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/game-ale/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/game-ale/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/game-ale/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/game-ale/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/game-ale/leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/game-ale/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/game-ale/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/game-ale/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/game-ale/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/game-ale/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/game-ale/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/game-ale/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/game-ale/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -1408,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/game-ale/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1070-convert-to-base-2](https://github.com/game-ale/leetcode/tree/master/1070-convert-to-base-2) |
 | [1137-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/game-ale/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/game-ale/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1806,6 +1810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/game-ale/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/game-ale/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/game-ale/leetcode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/game-ale/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -1863,9 +1868,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/game-ale/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/game-ale/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
