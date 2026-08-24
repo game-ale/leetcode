@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/game-ale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/game-ale/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/game-ale/leetcode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/game-ale/leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/game-ale/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/game-ale/leetcode/tree/master/1895-largest-magic-square) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/game-ale/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/game-ale/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/game-ale/leetcode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/game-ale/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/game-ale/leetcode/tree/master/1895-largest-magic-square) |
 | [1983-maximum-population-year](https://github.com/game-ale/leetcode/tree/master/1983-maximum-population-year) |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/game-ale/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/game-ale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/game-ale/leetcode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/game-ale/leetcode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/game-ale/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/game-ale/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/game-ale/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1463,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/game-ale/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/game-ale/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/game-ale/leetcode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/game-ale/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/game-ale/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/game-ale/leetcode/tree/master/1925-count-square-sum-triples) |
@@ -1855,6 +1859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/game-ale/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/game-ale/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/game-ale/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/game-ale/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/game-ale/leetcode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/game-ale/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -1916,6 +1921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/game-ale/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/game-ale/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/game-ale/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/game-ale/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1923,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/game-ale/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/game-ale/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/game-ale/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/game-ale/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
