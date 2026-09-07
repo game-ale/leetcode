@@ -911,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/game-ale/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/game-ale/leetcode/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/game-ale/leetcode/tree/master/0800-letter-case-permutation) |
+| [0940-distinct-subsequences-ii](https://github.com/game-ale/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/game-ale/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/game-ale/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/game-ale/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/game-ale/leetcode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/game-ale/leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/game-ale/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/game-ale/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/game-ale/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/game-ale/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1137-n-th-tribonacci-number) |
