@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/game-ale/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1500-count-largest-group](https://github.com/game-ale/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/game-ale/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/game-ale/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/game-ale/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/game-ale/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/game-ale/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/game-ale/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/game-ale/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/game-ale/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1543-simplified-fractions](https://github.com/game-ale/leetcode/tree/master/1543-simplified-fractions) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/game-ale/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/game-ale/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/game-ale/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/game-ale/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/game-ale/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/game-ale/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/game-ale/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/game-ale/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/game-ale/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -1264,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/game-ale/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/game-ale/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/game-ale/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/game-ale/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/game-ale/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/game-ale/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
