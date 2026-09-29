@@ -1,9 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        check = defaultdict(int)
         for i in range(len(nums)):
-            if target-nums[i] in check:
-                return [check[target-nums[i]],i] 
-            check[nums[i]] = i
+            for j in range(i + 1, len(nums)):
+                if nums[j] == target - nums[i]:
+                    return [i, j]
+        # Return an empty list if no solution is found
         return []
-        
