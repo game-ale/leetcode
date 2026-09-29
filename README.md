@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/game-ale/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/game-ale/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/game-ale/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/game-ale/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/game-ale/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/game-ale/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/game-ale/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/game-ale/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/game-ale/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/game-ale/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/game-ale/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/game-ale/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/game-ale/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1455,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/game-ale/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/game-ale/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/game-ale/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/game-ale/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/game-ale/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/game-ale/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/game-ale/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -2035,4 +2038,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/game-ale/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/game-ale/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
