@@ -871,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/game-ale/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/game-ale/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/game-ale/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/game-ale/leetcode/tree/master/0046-permutations) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/game-ale/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/game-ale/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/game-ale/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/game-ale/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/game-ale/leetcode/tree/master/0125-valid-palindrome) |
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/game-ale/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/game-ale/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/game-ale/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/game-ale/leetcode/tree/master/0070-climbing-stairs) |
@@ -2042,6 +2045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/game-ale/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/game-ale/leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/game-ale/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/game-ale/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/game-ale/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
