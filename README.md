@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/game-ale/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/game-ale/leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/game-ale/leetcode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/game-ale/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/game-ale/leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/game-ale/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/game-ale/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/game-ale/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/game-ale/leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/game-ale/leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/game-ale/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/game-ale/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/game-ale/leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/game-ale/leetcode/tree/master/0494-target-sum) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/game-ale/leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/game-ale/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/game-ale/leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/game-ale/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/game-ale/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/game-ale/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0433-minimum-genetic-mutation](https://github.com/game-ale/leetcode/tree/master/0433-minimum-genetic-mutation) |
