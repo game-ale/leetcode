@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/game-ale/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/game-ale/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/game-ale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/game-ale/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/game-ale/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/game-ale/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/game-ale/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/game-ale/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/game-ale/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/game-ale/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/game-ale/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/game-ale/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/game-ale/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/game-ale/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1339,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/game-ale/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/game-ale/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/game-ale/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/game-ale/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/game-ale/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/game-ale/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/game-ale/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
