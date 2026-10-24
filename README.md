@@ -1017,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/game-ale/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2390-removing-stars-from-a-string](https://github.com/game-ale/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/game-ale/leetcode/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/game-ale/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/game-ale/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/game-ale/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1615,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/game-ale/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/game-ale/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/game-ale/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/game-ale/leetcode/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/game-ale/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/game-ale/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/game-ale/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
