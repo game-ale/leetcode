@@ -1049,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/game-ale/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/game-ale/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/game-ale/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/game-ale/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/game-ale/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2211-count-collisions-on-a-road](https://github.com/game-ale/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/game-ale/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
