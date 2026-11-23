@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/game-ale/leetcode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/game-ale/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/game-ale/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/game-ale/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/game-ale/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/game-ale/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/game-ale/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -875,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/game-ale/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/game-ale/leetcode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/game-ale/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/game-ale/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/game-ale/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/game-ale/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/game-ale/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1653,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/game-ale/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/game-ale/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/game-ale/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/game-ale/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/game-ale/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/game-ale/leetcode/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/game-ale/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -2084,6 +2087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/game-ale/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/game-ale/leetcode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/game-ale/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2069-walking-robot-simulation-ii](https://github.com/game-ale/leetcode/tree/master/2069-walking-robot-simulation-ii) |
@@ -2219,4 +2223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/game-ale/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/game-ale/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
